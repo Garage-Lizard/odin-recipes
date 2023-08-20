@@ -1,3 +1,3 @@
 First HTML project
 
-This is my first HTML project. Hope it doesn't suck. 
+Here's a super tasty black bean burger recipe everyone will love. 
