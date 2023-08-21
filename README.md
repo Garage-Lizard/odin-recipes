@@ -1,3 +1,3 @@
 First HTML project
 
-Here's a super tasty black bean burger recipe everyone will love. 
+Here's a great group of summertime recipes that taste awesome on their own but taste even better together. 
